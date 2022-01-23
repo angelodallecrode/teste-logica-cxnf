@@ -1,0 +1,23 @@
+a) Resultado:
+20
+10, 5
+
+B)Resultado:
+10,10,10
+
+C)Resultado:
+10, 20, 15,
+
+D)Resultado:
+Escreve  50
+Escreve 10,50
+Escreve 30, 10, 40
+
+e)Resultado:
+12
+14, 13
+
+F)Resultado:
+1
+5, 6, 1
+
